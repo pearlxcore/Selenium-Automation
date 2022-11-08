@@ -1,4 +1,4 @@
-﻿namespace Web_Scraping__Selenium_.Utilities
+﻿namespace Web_Scraping.Utilities
 {
     public class PoliticalParty
     {

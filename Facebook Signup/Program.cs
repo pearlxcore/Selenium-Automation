@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Support.UI;
 using static WebDriverLib.WebDriverLib;
 
-namespace Facebook_Login
+namespace Facebook_Signup
 {
     internal class Program
     {

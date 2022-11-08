@@ -1,10 +1,10 @@
 ﻿using Newtonsoft.Json;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using Web_Scraping__Selenium_.Model;
-using Web_Scraping__Selenium_.Utilities;
+using Web_Scraping.Model;
+using Web_Scraping.Utilities;
 
-namespace Web_Scraping__Selenium_
+namespace Web_Scraping
 {
     internal class Program
     {

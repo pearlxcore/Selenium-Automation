@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Web_Scraping__Selenium_.Model
+namespace Web_Scraping.Model
 {
     public class CandidateModel
     {
